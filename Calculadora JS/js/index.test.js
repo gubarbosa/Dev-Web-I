@@ -7,3 +7,7 @@ it('Soma de dois numeros positivos', () =>{
 it('Soma de dois numeros negativos', () =>{
     expect(sub(-2,4)).toBe(-6)
 })
+
+it('Delta',() => {
+    expect(delta(2,4,6)).toBe(-32)
+})
