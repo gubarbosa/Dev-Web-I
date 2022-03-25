@@ -1,0 +1,56 @@
+.divisor {
+    font-family: Helvetica, sans-serif;
+    margin-top: 25px;
+    font-size: 11px;
+    color: blue;
+    text-align: center;
+    line-height: 2;
+}
+
+.corpo1 {
+    width: 600px;
+    margin:  25px auto;
+    padding: 0px 20px 20px 20px;
+    border: 2px solid black;
+}
+
+.green-header {
+    background-color: #78b200;;
+    color: white;
+    border-style: none;
+    padding: 15px 15px;
+}
+
+tr{
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+
+td:nth-child(2) {
+    color: #0D5188;
+  }
+
+
+tr:nth-child(even) {
+    background: lightgray;
+  }
+
+table {
+    width: 600px;
+    border-collapse: collapse;
+}
+
+body {
+    font-family: Arial;
+    font-size: 12px;
+}
+
+th {
+    width: 5%;
+    padding: 10px;
+}
+
+td {
+    padding: 8px;
+}
